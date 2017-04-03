@@ -1,0 +1,20 @@
+{
+  "name": "Modest",
+  "homepage": "https://github.com/Korew/YellowMoon",
+  "authors": [
+    "Roman Korenchuk <ikorew@gmail.com>"
+  ],
+  "description": "Modest template",
+  "main": "",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "tajem": "djvang/tajem"
+  }
+}
